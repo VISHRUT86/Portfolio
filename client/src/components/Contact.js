@@ -43,7 +43,7 @@ const Contact = () => {
     } else if (mobile == "") {
       toast.error("mobile is require")
     } else {
-      const res = await fetch("http://localhost:5000/register", {
+      const res = await fetch("https://portfolio1-rooa.onrender.com/register", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
