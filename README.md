@@ -23,13 +23,21 @@ This is a simple, clean, and responsive portfolio site that showcases my work, s
 - HTML5  
 - CSS3  
 - JavaScript  
-- [Optional: React.js] *(If you're using React, keep this. Otherwise, remove.)*  
+- React.js 
 - Hosting: **Render**
 
 ---
 
 ## 📁 Project Structure
 ![image](https://github.com/user-attachments/assets/07ba7a28-64d3-455d-9e3c-748544b6f60d)
+
+## Some Glimpses
+
+## HOME
+![image](https://github.com/user-attachments/assets/8a3fafe2-49d3-4921-a9fd-12c4060f54eb)
+
+## ABOUT
+![image](https://github.com/user-attachments/assets/9280693b-be19-4ba3-9445-63edb125806f)
 
 
 
